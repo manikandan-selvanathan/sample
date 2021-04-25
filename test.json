@@ -1,0 +1,232 @@
+{
+  "id": 1,
+  "last_updated": 33,
+  "type": "onboarding",
+  "title": {
+    "text": [
+      {
+        "lang": "en",
+        "value": "How to use the Panic Button"
+      },
+      {
+        "lang": "fr",
+        "value": "French version of How to use the Panic Button"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": 1,
+      "controls": [
+        {
+          "position": 0,
+          "label": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "Press the Panic Button"
+              },
+              {
+                "lang": "fr",
+                "value": "French version of Press the panic button"
+              }
+            ],
+            "style": "header",
+            "action": null
+          },
+          "button": null
+        },
+        {
+          "position": 1,
+          "label": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "In an emergency, you need to easily be able to click this Panic button . Attach it on your clothes."
+              },
+              {
+                "lang": "fr",
+                "value": "French version of In an emergency"
+              }
+            ],
+            "style": "body",
+            "action": null
+          },
+          "button": null
+        },
+        {
+          "position": 2,
+          "button": null,
+          "image": {
+            "source_type": "local",
+            "source": "ic_add"
+          },
+          "label": null
+        },
+        {
+          "position": 3,
+          "button": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "Next"
+              },
+              {
+                "lang": "fr",
+                "value": "French version of next"
+              }
+            ],
+            "action": {
+              "is_end": false,
+              "next_pointer": 2
+            }
+          },
+          "image": null,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "controls": [
+        {
+          "position": 0,
+          "label": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "Press the Panic Button"
+              },
+              {
+                "lang": "fr",
+                "value": "French version of Press the panic button"
+              }
+            ],
+            "style": "header",
+            "action": null
+          },
+          "button": null
+        },
+        {
+          "position": 1,
+          "label": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "In an emergency, you need to easily be able to click this Panic button . Attach it on your clothes."
+              },
+              {
+                "lang": "fr",
+                "value": "French version of In an emergency"
+              }
+            ],
+            "style": "body",
+            "action": null
+          },
+          "button": null
+        },
+        {
+          "position": 2,
+          "button": null,
+          "image": {
+            "source_type": "local",
+            "source": "ic_add"
+          },
+          "label": null
+        },
+        {
+          "position": 3,
+          "button": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "Next"
+              },
+              {
+                "lang": "fr",
+                "value": "French version of next"
+              }
+            ],
+            "action": {
+              "is_end": false,
+              "next_pointer": 3
+            }
+          },
+          "image": null,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "controls": [
+        {
+          "position": 0,
+          "label": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "Press the Panic Button"
+              },
+              {
+                "lang": "fr",
+                "value": "French version of Press the panic button"
+              }
+            ],
+            "style": "header",
+            "action": null
+          },
+          "button": null
+        },
+        {
+          "position": 1,
+          "label": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "In an emergency, you need to easily be able to click this Panic button . Attach it on your clothes."
+              },
+              {
+                "lang": "fr",
+                "value": "French version of In an emergency"
+              }
+            ],
+            "style": "body",
+            "action": null
+          },
+          "button": null
+        },
+        {
+          "position": 2,
+          "button": null,
+          "image": {
+            "source_type": "local",
+            "source": "ic_add"
+          },
+          "label": null
+        },
+        {
+          "position": 3,
+          "button": {
+            "text": [
+              {
+                "lang": "en",
+                "value": "Next"
+              },
+              {
+                "lang": "fr",
+                "value": "French version of next"
+              }
+            ],
+            "action": {
+              "is_end": true,
+              "next_pointer": null
+            }
+          },
+          "image": null,
+          "label": null
+        }
+      ]
+    }
+  ]
+}
