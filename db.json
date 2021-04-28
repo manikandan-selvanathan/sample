@@ -40,6 +40,30 @@
           ],
           "image": null,
           "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
+        },
+        {
+          "title": [
+            {
+              "lang": "en",
+              "value": "Contacts are notified"
+            },
+            {
+              "lang": "fr",
+              "value": "Contacts are notified"
+            }
+          ],
+          "description": [
+            {
+              "lang": "en",
+              "value": "Immediately, your contacts will be notified in their \"Safety Network\" tab with a prompt to call you."
+            },
+            {
+              "lang": "fr",
+              "value": "Immediately, your contacts will be notified in their \"Safety Network\" tab with a prompt to call you."
+            }
+          ],
+          "image": null,
+          "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
         }
       ]
     }
