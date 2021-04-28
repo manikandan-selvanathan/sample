@@ -1,20 +1,11 @@
 {
-  "onboarding":
-  {
-  "last_updated": 33,
-  "type": "onboarding",
-  "title": [
-    {
-      "lang": "en",
-      "value": "How to use the Panic Button"
-    },
-    {
-      "lang": "fr",
-      "value": "French version of How to use the Panic Button"
-    }
-  ],
-  "pages": [
-    {
+  "onboarding": {
+    "code": 200,
+    "success": true,
+    "message": "OTP notification sent.",
+    "payload": {
+      "last_updated": 33,
+      "type": "onboarding",
       "title": [
         {
           "lang": "en",
@@ -25,19 +16,32 @@
           "value": "French version of How to use the Panic Button"
         }
       ],
-      "description": [
+      "pages": [
         {
-          "lang": "en",
-          "value": "How to use the Panic Button"
-        },
-        {
-          "lang": "fr",
-          "value": "French version of How to use the Panic Button"
+          "title": [
+            {
+              "lang": "en",
+              "value": "How to use the Panic Button"
+            },
+            {
+              "lang": "fr",
+              "value": "French version of How to use the Panic Button"
+            }
+          ],
+          "description": [
+            {
+              "lang": "en",
+              "value": "How to use the Panic Button"
+            },
+            {
+              "lang": "fr",
+              "value": "French version of How to use the Panic Button"
+            }
+          ],
+          "image": null,
+          "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
         }
-       ],
-      "image":null,
-      "video":"https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
+      ]
     }
-  ]
-}
+  }
 }
