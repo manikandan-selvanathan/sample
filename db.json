@@ -21,21 +21,21 @@
           "title": [
             {
               "lang": "en",
-              "value": "How to use the Panic Button"
+              "value": "Press the Panic Button"
             },
             {
               "lang": "fr",
-              "value": "French version of How to use the Panic Button"
+              "value": "French version of Press the Panic Button"
             }
           ],
           "description": [
             {
               "lang": "en",
-              "value": "How to use the Panic Button"
+              "value": "In an emergency. you need to easily be able to click this Panic Button. Attach it on your cloths."
             },
             {
               "lang": "fr",
-              "value": "French version of How to use the Panic Button"
+              "value": "French version of In an emergency. you need to easily be able to click this Panic Button. Attach it on your cloths."
             }
           ],
           "image": null,
@@ -49,17 +49,41 @@
             },
             {
               "lang": "fr",
-              "value": "Contacts are notified"
+              "value": "French version of Contacts are notified"
             }
           ],
           "description": [
             {
               "lang": "en",
-              "value": "Immediately, your contacts will be notified in their \"Safety Network\" tab with a prompt to call you."
+              "value": "Immediately, your contacts will be notified in their 'Safety Network' tab with a prompt to call you."
             },
             {
               "lang": "fr",
-              "value": "Immediately, your contacts will be notified in their \"Safety Network\" tab with a prompt to call you."
+              "value": "Immediately, your contacts will be notified in their 'Safety Network' tab with a prompt to call you."
+            }
+          ],
+          "image": null,
+          "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
+        },
+        {
+          "title": [
+            {
+              "lang": "en",
+              "value": "911 is called"
+            },
+            {
+              "lang": "fr",
+              "value": "French version of 911 is called"
+            }
+          ],
+          "description": [
+            {
+              "lang": "en",
+              "value": "A countdown will start for [X mins], when the countdown runs out of time 911 will be called, 'Cancel' before the countdown end. 911 will not be called."
+            },
+            {
+              "lang": "fr",
+              "value": "French version of countdown will start for [X mins], when the countdown runs out of time 911 will be called, 'Cancel' before the countdown end. 911 will not be called."
             }
           ],
           "image": null,
