@@ -2,92 +2,72 @@
   "onboarding": {
     "code": 200,
     "success": true,
-    "message": "OTP notification sent.",
+    "message": "COVID Questionnaire.",
     "payload": {
       "last_updated": 33,
-      "type": "ONBOARDING",
+      "type": "QUESTIONNAIRE",
       "title": [
         {
           "lang": "en",
-          "value": "How to use the Panic Button"
+          "value": "COVID-19 Questionnaire"
         },
         {
           "lang": "fr",
-          "value": "French version of How to use the Panic Button"
+          "value": "French version of COVID-19 Questionnaire"
         }
       ],
-      "pages": [
+      "pages": null,
+      "questionnaire": [
         {
-          "title": [
+          "question": [
             {
               "lang": "en",
-              "value": "Press the Panic Button"
+              "value": "In the last 48 hrs, have you had any of the following symptoms?"
             },
             {
               "lang": "fr",
-              "value": "French version of Press the Panic Button"
+              "value": "French version of In the last 48 hrs, have you had any of the following symptoms?"
             }
           ],
           "description": [
             {
               "lang": "en",
-              "value": "In an emergency. you need to easily be able to click this Panic Button. Attach it on your cloths."
+              "value": "Reminder: we are not screening for seasonal or environmental allergies"
             },
             {
               "lang": "fr",
-              "value": "French version of In an emergency. you need to easily be able to click this Panic Button. Attach it on your cloths."
+              "value": "French version of Reminder: we are not screening for seasonal or environmental allergies"
             }
           ],
-          "image": "https://media.giphy.com/media/13VLdHIQRb8zQc/giphy.gif",
-          "video": null
-        },
-        {
-          "title": [
+          "questionnaireType": "YesOrNo",
+          "options": [
             {
-              "lang": "en",
-              "value": "Contacts are notified"
+              "id": 1,
+              "answer": [
+                {
+                  "lang": "en",
+                  "value": "YES"
+                },
+                {
+                  "lang": "fr",
+                  "value": "French version of YES"
+                }
+              ]
             },
             {
-              "lang": "fr",
-              "value": "French version of Contacts are notified"
+              "id": 2,
+              "answer": [
+                {
+                  "lang": "en",
+                  "value": "NO"
+                },
+                {
+                  "lang": "fr",
+                  "value": "French version of NO"
+                }
+              ]
             }
-          ],
-          "description": [
-            {
-              "lang": "en",
-              "value": "Immediately, your contacts will be notified in their 'Safety Network' tab with a prompt to call you."
-            },
-            {
-              "lang": "fr",
-              "value": "Immediately, your contacts will be notified in their 'Safety Network' tab with a prompt to call you."
-            }
-          ],
-          "image": "https://media.giphy.com/media/j2AahxGNpRL9ms5RRv/giphy.gif",
-          "video": null
-        },
-        {
-          "title": [
-            {
-              "lang": "en",
-              "value": "911 is called"
-            },
-            {
-              "lang": "fr",
-              "value": "French version of 911 is called"
-            }
-          ],
-          "description": [
-            {
-              "lang": "en",
-              "value": "A countdown will start for [X mins], when the countdown runs out of time 911 will be called, 'Cancel' before the countdown end. 911 will not be called."
-            },
-            {
-              "lang": "fr",
-              "value": "French version of countdown will start for [X mins], when the countdown runs out of time 911 will be called, 'Cancel' before the countdown end. 911 will not be called."
-            }
-          ],
-          "image": "https://media.giphy.com/media/d7id4BY2NQnJe/giphy.gif",
-          "video": null
+          ]
         }
       ]
     }
