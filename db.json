@@ -68,6 +68,57 @@
               ]
             }
           ]
+        },
+         {
+          "question": [
+            {
+              "lang": "en",
+              "value": "In the last 48 hrs, have you had any of the following symptoms?"
+            },
+            {
+              "lang": "fr",
+              "value": "French version of In the last 48 hrs, have you had any of the following symptoms?"
+            }
+          ],
+          "description": [
+            {
+              "lang": "en",
+              "value": "Reminder: we are not screening for seasonal or environmental allergies"
+            },
+            {
+              "lang": "fr",
+              "value": "French version of Reminder: we are not screening for seasonal or environmental allergies"
+            }
+          ],
+          "questionnaireType": "YesOrNo",
+          "options": [
+            {
+              "id": 1,
+              "answer": [
+                {
+                  "lang": "en",
+                  "value": "YES"
+                },
+                {
+                  "lang": "fr",
+                  "value": "French version of YES"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "answer": [
+                {
+                  "lang": "en",
+                  "value": "NO"
+                },
+                {
+                  "lang": "fr",
+                  "value": "French version of NO"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
