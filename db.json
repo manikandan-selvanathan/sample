@@ -3,6 +3,7 @@
     "code": 200,
     "success": true,
     "message": "OTP notification sent.",
+    "type": "ONBOARDING",
     "payload": {
       "last_updated": 33,
       "type": "onboarding",
